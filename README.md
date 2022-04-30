@@ -14,23 +14,24 @@
 <h3 dir="auto">👩‍💻About Me:</h3>
 
 I'm a Junior FrontEnd Developer <img width="26px" src="/1.gif" />.
-- Student of the Faculty of Informatics and Computer Engineering
+- Student of the Faculty of Informatics and Computer Engineering.
 - 💪 I like to write code and make websites alive😎
 - 📚 I am constantly learning new things
 - ⚡️ I’m looking for collaborating on with awesome people and great projects!
+- love to read books!
 
 ### Languages and Tools:
 
 
 <div dir= "auto">
-<img alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
-<img alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
-<img alt="Sass" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png" />
-<img src="https://github.com/devicons/devicon/raw/master/icons/git/git-original.svg" title="Git" width="26px">
-<img src="https://raw.githubusercontent.com/daniilshat/daniilshat/2583381c09497c680369e95dce7e029d93484d94/icons/VS-code.svg" alt="git" width="26px">
-<img alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
-<img src="https://github.com/devicons/devicon/raw/master/icons/gulp/gulp-plain.svg" title="Gulp" width="26px">
-<img src="https://raw.githubusercontent.com/daniilshat/daniilshat/2d7eafe5250314b3d422c86b35de062e0f1f5178/icons/linux.svg" alt="linux" width="26px">
+<img alt="HTML5" width="40" height= "40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
+<img alt="CSS3" width="40" height= "40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
+<img alt="Sass"  width="40" height= "40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png" />
+<img src="https://github.com/devicons/devicon/raw/master/icons/git/git-original.svg" title="Git"  width="40" height= "40">
+<img src="https://raw.githubusercontent.com/daniilshat/daniilshat/2583381c09497c680369e95dce7e029d93484d94/icons/VS-code.svg" alt="git" width="40" height= "40">
+<img alt="JavaScript"  width="40" height= "40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
+<img src="https://github.com/devicons/devicon/raw/master/icons/gulp/gulp-plain.svg" title="Gulp"  width="40" height= "40">
+<img src="https://raw.githubusercontent.com/daniilshat/daniilshat/2d7eafe5250314b3d422c86b35de062e0f1f5178/icons/linux.svg" alt="linux"  width="40" height= "40">
 </div>
 
 <br />
