@@ -1,6 +1,6 @@
 
 
- <img src="https://camo.githubusercontent.com/deb3c8a2730013c4bef2ea8859dff656d86d4fff30a9cca7f405664463af7bad/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f5574377a655258436d7863307464374e36382f67697068792e676966" width="20%" data-canonical-src="https://media.giphy.com/media/Ut7zeRXCmxc0td7N68/giphy.gif" style="max-width: 100%;" align="center">
+ <img src="/Без названия.jfif" style="max-width: 100%;" align="center">
 
 ### Hi there 👋, I'm Kristina
 
@@ -9,7 +9,7 @@
 
 
 ## I'm a Junior FrontEnd Developer. <img width="26px" src="/1.gif" />
-## Student of the Faculty of Informatics and Computer Engineering 🇷🇺
+## Student of the Faculty of Informatics and Computer Engineering
 
 - 💪 I like to write code and make websites alive😎
 - 📚 I am constantly learning new things
@@ -18,14 +18,14 @@
 ### Languages and Tools:
 
 
-<img align="left" alt="HTML5" width="40" height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" style="max-width: 100%;"/>
-<img align="left" alt="CSS3" width="40" height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" style="max-width: 100%;"/>
-<img align="left" alt="Sass" width="40" height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png" style="max-width: 100%;"/>
-<img align="left" alt="JavaScript" width="40" height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" style="max-width: 100%;"/>
-<img src="https://github.com/devicons/devicon/raw/master/icons/gulp/gulp-plain.svg" title="Gulp" width="40" height="40" style="max-width: 100%;">
-<img src="https://raw.githubusercontent.com/daniilshat/daniilshat/2d7eafe5250314b3d422c86b35de062e0f1f5178/icons/linux.svg" alt="linux" width="40" height="40">
-<img src="https://raw.githubusercontent.com/daniilshat/daniilshat/2583381c09497c680369e95dce7e029d93484d94/icons/VS-code.svg" alt="git" width="40" height="40" style="max-width: 100%;">
-<img src="https://raw.githubusercontent.com/daniilshat/daniilshat/2d7eafe5250314b3d422c86b35de062e0f1f5178/icons/figma.svg" alt="figma" width="30" height="40" style="max-width: 100%;">
+<img align="left" padding-right= 0; alt="HTML5" width="40" height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" style="max-width: 100%;"/>
+<img align="left" padding-right= 0; alt="CSS3" width="40" height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" style="max-width: 100%;"/>
+<img align="left" padding-right= 0; alt="Sass" width="40" height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png" style="max-width: 100%;"/>
+<img align="left" padding-right= 0; alt="JavaScript" width="40" height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" style="max-width: 100%;"/>
+<img padding-right= 0; src="https://github.com/devicons/devicon/raw/master/icons/gulp/gulp-plain.svg" title="Gulp" width="40" height="40" style="max-width: 100%;">
+<img padding-right= 0; src="https://raw.githubusercontent.com/daniilshat/daniilshat/2d7eafe5250314b3d422c86b35de062e0f1f5178/icons/linux.svg" alt="linux" width="40" height="40">
+<img padding-right= 0; src="https://raw.githubusercontent.com/daniilshat/daniilshat/2583381c09497c680369e95dce7e029d93484d94/icons/VS-code.svg" alt="git" width="40" height="40" style="max-width: 100%;">
+<img padding-right= 0; src="https://raw.githubusercontent.com/daniilshat/daniilshat/2d7eafe5250314b3d422c86b35de062e0f1f5178/icons/figma.svg" alt="figma" width="40" height="40" style="max-width: 100%;">
 
 
 <details>
