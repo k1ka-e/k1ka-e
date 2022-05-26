@@ -32,7 +32,8 @@ I'm a Junior FrontEnd Developer <img width="26px" src="/1.gif" />.
 <img alt="JavaScript"  width="40" height= "40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
 <img src="https://github.com/devicons/devicon/raw/master/icons/gulp/gulp-plain.svg" title="Gulp"  width="40" height= "40">
 <img src="https://raw.githubusercontent.com/daniilshat/daniilshat/2d7eafe5250314b3d422c86b35de062e0f1f5178/icons/linux.svg" alt="linux"  width="40" height= "40">
- <img src="https://raw.githubusercontent.com/daniilshat/daniilshat/2d7eafe5250314b3d422c86b35de062e0f1f5178/icons/vuejs.svg" alt="vue"  width="40" height= "40">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" alt="vue"  width="40" height= "40"/>
+
 </div>
 
 <br />
