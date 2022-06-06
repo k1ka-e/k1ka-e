@@ -13,7 +13,7 @@
 
 <h3 dir="auto">👩‍💻About Me:</h3>
 
-I'm a Junior FrontEnd Developer <img width="3rem" src="/1.gif" />.
+I'm a Junior FrontEnd Developer <img width="40" height= "40 src="/1.gif" />.
 - Student of the Faculty of Informatics and Computer Engineering.
 - 💪 I like to write code and make websites alive😎
 - 📚 I am constantly learning new things
