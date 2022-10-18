@@ -13,7 +13,7 @@
 
 <h3 dir="auto">👩‍💻About Me:</h3>
 
-I'm a Junior FrontEnd Developer <img width="40px" height= "40px" src="/1.gif" />.
+I'm a Junior Fullstack Developer <img width="40px" height= "40px" src="/1.gif" />.
 - Student of the Faculty of Informatics and Computer Engineering.
 - 💪 I like to write code and make websites alive😎
 - 📚 I am constantly learning new things
