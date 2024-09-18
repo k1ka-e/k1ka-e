@@ -32,7 +32,6 @@ I'm a Fullstack Developer <img width="40px" height= "40px" src="/1.gif" />.
 <img src="https://github.com/devicons/devicon/raw/master/icons/gulp/gulp-plain.svg" title="Gulp"  width="40" height= "40">
 <img src="https://raw.githubusercontent.com/daniilshat/daniilshat/2d7eafe5250314b3d422c86b35de062e0f1f5178/icons/linux.svg" alt="linux"  width="40" height= "40">
 <img src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/php.svg" alt="php"  width="40" height= "40">
-<img src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/laravel.svg" alt="php"  width="40" height= "40">
 
 
 </div>
